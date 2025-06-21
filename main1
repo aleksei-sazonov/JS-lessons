@@ -1,0 +1,18 @@
+// const username = "Lekha"; //flat
+// const userName = "Pavel"; //Camel case
+// const user_name = "Alex"; // snake case
+// const UserName = "Nigerino"; //pascal case
+//const user-name = 'Lekha1'; //kebab case
+
+const number = 25;
+const data = "...";
+
+const userName = "Lekha"; // camel case
+const userName2 = "Pavel";
+
+const PI = 3.1415;
+const MIN_PASSWORD_LENGHT = 8; //константы, которые никогда не меняются, всегда пишутся с большой буквы.
+
+/*Да, для ключевого слова const инициализация обязательна, 
+поэтому попытка создать переменную const без присвоения значения приводит к ошибке.
+Этот вариант всегда приводит к ошибке SyntaxError.*/
