@@ -1,0 +1,7 @@
+"use strict";
+
+let number = 5;
+debugger;
+number = 10;
+//...
+alert(number);
